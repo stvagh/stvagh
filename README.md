@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shweta V</h1>
 <h3 align="center">A passionate Web and Windows application developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif" />
-- 🌱 I’m currently learning **.Net core & Angular**
+- 🌱 I have experience in **.Net core & Angular**
 
 - 📫 How to reach me **shwetavaghela35@gmail.com**
 
